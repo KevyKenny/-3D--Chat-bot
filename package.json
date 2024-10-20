@@ -1,0 +1,26 @@
+{
+  "name": "chat-bot-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@supabase/supabase-js": "^2.45.4",
+    "bootstrap": "^5.3.3",
+    "common-tags": "^1.8.2",
+    "next": "14.2.5",
+    "openai": "^4.63.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-player": "^2.16.0",
+    "react-pro-sidebar": "^1.1.0",
+    "react-toastify": "^10.0.6",
+    "zustand": "^4.5.5"
+  }
+}

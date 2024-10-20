@@ -1,0 +1,13 @@
+.profile-avatar {
+    display: inline-block;
+    border-radius: 50%;
+    background-color: white;
+    padding: 2px;
+    text-align: center;
+}
+
+.initials {
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+}
